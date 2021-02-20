@@ -6,3 +6,6 @@ h1{
     color: red;
     background-color: red;
 }
+h2:nth-child(2) {
+    color: black;
+}
